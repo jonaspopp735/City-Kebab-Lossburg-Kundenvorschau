@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-labelledby="title desc">
+  <title id="title">City Kebap Loßburg</title>
+  <desc id="desc">Rekonstruiertes Logo mit rotem Dönerspieß und blauem Verlauf</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111e"/>
+      <stop offset=".58" stop-color="#172d4e"/>
+      <stop offset="1" stop-color="#1683c7"/>
+    </linearGradient>
+  </defs>
+  <rect width="620" height="150" rx="8" fill="#080b10"/>
+  <path d="M0 150h620V72C475 105 294 117 0 106Z" fill="url(#blue)"/>
+  <g transform="translate(23 14)">
+    <circle cx="61" cy="61" r="55" fill="#07101c" stroke="#dbe2ea" stroke-width="3"/>
+    <path d="M61 10v102" fill="none" stroke="#dce5ed" stroke-width="4" stroke-linecap="round"/>
+    <path d="M61 8l-7 9h14Z" fill="#dce5ed"/>
+    <path d="M49 25c8-8 19-8 25 0l-4 8c-7 4-14 4-22 0Z" fill="#d33b32"/>
+    <path d="M43 39c11-7 26-7 35 1l-3 10c-10 5-22 5-33-1Z" fill="#c52f2f"/>
+    <path d="M40 54c13-7 29-6 40 2l-4 11c-12 5-25 5-38-2Z" fill="#e04935"/>
+    <path d="M39 70c13-6 29-5 42 3l-5 11c-12 5-25 5-38-2Z" fill="#c83231"/>
+    <path d="M42 86c11-5 25-4 36 3l-5 11c-10 4-21 4-32-2Z" fill="#e24a36"/>
+    <path d="M48 102c8-4 17-3 24 2l-5 9H53Z" fill="#c83231"/>
+    <path d="M48 26c7 3 15 3 25 0M43 41c10 4 22 4 35 0M40 57c12 4 25 4 40 0M39 73c13 4 27 4 42 0M42 89c11 4 24 4 36 0" fill="none" stroke="#f56a49" stroke-width="2" opacity=".9"/>
+  </g>
+  <g fill="#f1f4f5" font-family="Arial,Helvetica,sans-serif">
+    <text x="155" y="74" font-size="39" font-weight="300" letter-spacing="1">CITY KEBAP</text>
+    <text x="158" y="111" font-size="22" font-weight="300" letter-spacing="2">LOSSBURG</text>
+  </g>
+</svg>
